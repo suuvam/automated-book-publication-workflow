@@ -1,0 +1,5 @@
+playwright
+chromadb
+openai
+openai
+python-dotenv
